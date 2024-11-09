@@ -514,7 +514,7 @@ nav {
   
   .footer__col p {
     max-width: 300px;
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
     color: var(--text-light);
   }
   
